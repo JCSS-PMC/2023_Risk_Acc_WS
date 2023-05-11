@@ -5,7 +5,7 @@
 | 09.30              | Registration and Coffee                                                                      |                       |
 | 10.00              |**Session 1: Setting the scene**                                                        |                       |
 |                    | Welcome and overview                                                                         | J.Köhler (NTNU)       |
-|                    | Introduction on Acceptance Criteria                                                          | N.P. Høj (HC)         |
+|                    | [](./Hoj.md)                                                           | N.P. Høj (HOJ)         |
 |                    | Discussion                                                                                   | all                   |
 | 10.45              | Coffee break                                                                                 |                       |
 | 11.15              |**Session 2: Practical implementation**                                                 |                       |
@@ -20,7 +20,7 @@
 |                    | Discussion                                                                                   | all                   |
 | 14.45              | Coffee break                                                                                 |                       |
 | 15.00              |**Session 3: Regulatory Context**                                                       |                       |
-|                    | [](./Ton.md)                                                     | T.Vrouwenvelder(TNO)  |
+|                    | [](./Ton.md)                                                     | T.Vrouwenvelder (TNO)  |
 |                    | The perspective of a land based building authority                                           | O.L.Ivanov (Boverket) |
 |                    | Safety regulation in the oil and gas industry                                                | B.Heide (Ptil)        |
 |                    | Discussion                                                                                   | all                   |
@@ -37,7 +37,7 @@
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
 | 09.00              | Registration and Coffee                                                                                                                                     |                     |
 | 09.15              | **Session 5: Tools and metrics for risk based decision making**                                                                                        |                     |
-|                    | Engineering methods and practical examples                                                                                                                  | M.Schubert(MATRISK) |
+|                    | Engineering methods and practical examples                                                                                                                  | M.Schubert (MATRISK) |
 |                    | Common frameworks and misconceptions                                                                                                                        | A.Evans (Imp. Col.) |
 |                    | Discussion                                                                                                                                                  | all                 |
 | 10.30              | Coffee break                                                                                                                                                |                     |
