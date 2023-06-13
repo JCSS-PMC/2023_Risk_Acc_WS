@@ -11,3 +11,6 @@ The risk assessment involved the following steps:
 * repair conditions. 
 
 These efforts involved dynamic global and  nonlinear local analyses of multiple impact events and global dynamic analyses of the structure in damaged and repair conditions, under permanent- ,- environmental and traffic loads. Yet, the remaining uncertainties in the analyses need to be considered. While it is up to the regulatory bodies to make the decisions on risk acceptance criteria, some reflections on the associated risk acceptance criteria, and how the detailed structural design criteria will be affected by the results of this risk assessment, are made. 
+
+[Extended abstract.](https://folk.ntnu.no/jochenk/JCSS/Files/eaMoan.pdf)
+
