@@ -1,4 +1,6 @@
 ## Introduction to Acceptance Criteria
+**Jochen Köhler, NTNU, Norway**
+
 **Niels Peter Høj, HOJ Consulting, Switzerland**
 
 The aim of the presentation is to give a short introduction to utility-based acceptance criteria.
