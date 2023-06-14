@@ -4,8 +4,8 @@
 |--------------------|----------------------------------------------------------------------------------------------|-----------------------|
 | 09.30              | Registration and Coffee                                                                      |                       |
 | 10.00              |**Session 1: Setting the scene**                                                        |                       |
-|                    | Welcome and overview                                                                         | J.Köhler (NTNU)       |
-|                    | [](./Hoj.md)                                                           | N.P. Høj (HOJ)         |
+|                    | Welcome and overview                                                                         | all       |
+|                    | [](./Hoj.md)                                                           | J.Köhler (NTNU)         |
 |                    | Discussion                                                                                   | all                   |
 | 10.45              | Coffee break                                                                                 |                       |
 | 11.15              |**Session 2: Practical implementation**                                                 |                       |
@@ -27,7 +27,7 @@
 | 16.30              | Coffee break                                                                                 |                       |
 | 16.45              |**Session 4: Scientific Approach to Risk Based Decision Making and Acceptance**         |                       |
 |                    | Formal criteria derived from Bayesian decision theory                                        | M.H.Faber (AAU)       |
-|                    | The use of risk acceptance criteria - an evaluation                                          | NN (Proactima)        |
+|                    | The use of risk acceptance criteria - an evaluation                                          | Gerhard Ersdal (Ptil)       |
 |                    | Discussion                                                                                   | all                   |
 | 18.00              | Closure Day 1                                                                                |                       |
 | 19.30              | Dinner                                                                                       |                       |
@@ -38,7 +38,7 @@
 | 09.00              | Registration and Coffee                                                                                                                                     |                     |
 | 09.15              | **Session 5: Tools and metrics for risk based decision making**                                                                                        |                     |
 |                    | Engineering methods and practical examples                                                                                                                  | M.Schubert (MATRISK) |
-|                    | Common frameworks and misconceptions                                                                                                                        | A.Evans (Imp. Col.) |
+|                    | Common frameworks and misconceptions                                                                                                                        | N.P. Høj (HOJ)   |
 |                    | Discussion                                                                                                                                                  | all                 |
 | 10.30              | Coffee break                                                                                                                                                |                     |
 | 11.00              | **Session 6: Group Work**                                                                                                                              |                     |
