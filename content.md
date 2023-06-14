@@ -27,7 +27,7 @@
 | 16.30              | Coffee break                                                                                 |                       |
 | 16.45              |**Session 4: Scientific Approach to Risk Based Decision Making and Acceptance**         |                       |
 |                    | Formal criteria derived from Bayesian decision theory                                        | M.H.Faber (AAU)       |
-|                    | The use of risk acceptance criteria - an evaluation                                          | Gerhard Ersdal (Ptil)       |
+|                    | The use of risk acceptance criteria - an evaluation                                          | G.Ersdal (Ptil)       |
 |                    | Discussion                                                                                   | all                   |
 | 18.00              | Closure Day 1                                                                                |                       |
 | 19.30              | Dinner                                                                                       |                       |
