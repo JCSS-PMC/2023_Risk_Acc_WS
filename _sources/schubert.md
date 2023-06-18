@@ -1,0 +1,8 @@
+# Engineering methods and practical examples 
+**Matthias Schubert (CEO, Matrisk GMBH, Switzerland)**
+
+The fundamental principle guiding state action is the imperative to act solely in accordance with the provisions of the law. The presentation discusses the importance of aligning acceptance criteria with legislation, specifically the principles of equality before the law and proportionality in the engineering practice. Equality before the law means treating similar cases equally, while proportionality ensures that measures are moderate in relation to the circumstances. The ALARP (As Low As Practically Reasonable) principle has found its way in practice, setting upper and lower limits for risk and applying proportionality within that range. This principle has e.g. been incorporated into guidelines for risk analysis in Swiss road tunnels and the assessment of existing structures. The implementation of risk acceptance criteria and the ALARP principle is also being addressed in the revision of fire protection regulations in Switzerland. The establishment of acceptance criteria and the application of risk-based approaches have significantly advanced engineering practices, providing a solid framework for safety and effectiveness in infrastructure projects.
+
+[Extended abstract](https://folk.ntnu.no/jochenk/JCSS/Files/EA_Matrisk_Risk_Acceptance_20.06.2023.pdf)
+
+[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/PRE_Matrisk_Risk_Akzeptanz_20.06.2023_rev.A.pdf)

@@ -21,7 +21,7 @@
 | 14.45              | Coffee break                                                                                 |                       |
 | 15.00              |**Session 3: Regulatory Context**                                                       |                       |
 |                    | [](./Ton.md)                                                     | T.Vrouwenvelder (TNO)  |
-|                    | The perspective of a land based building authority                                           | O.L.Ivanov (Boverket) |
+|                    | [](./Larson.md)                                            | O.L.Ivanov (Boverket) |
 |                    | Safety regulation in the oil and gas industry                                                | B.Heide (Ptil)        |
 |                    | Discussion                                                                                   | all                   |
 | 16.30              | Coffee break                                                                                 |                       |
@@ -30,14 +30,14 @@
 |                    | The use of risk acceptance criteria - an evaluation                                          | G.Ersdal (Ptil)       |
 |                    | Discussion                                                                                   | all                   |
 | 18.00              | Closure Day 1                                                                                |                       |
-| 19.30              | Dinner                                                                                       |                       |
+| 20.00              | Dinner                                                                                       |                       |
 
 
 | **20.06.23** |                                                                                                                                                |                     |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
 | 09.00              | Registration and Coffee                                                                                                                                     |                     |
 | 09.15              | **Session 5: Tools and metrics for risk based decision making**                                                                                        |                     |
-|                    | Engineering methods and practical examples                                                                                                                  | M.Schubert (MATRISK) |
+|                    | [](./schubert.md)                                                                                                                      | M.Schubert (MATRISK) |
 |                    | Common frameworks and misconceptions                                                                                                                        | N.P. Høj (HOJ)   |
 |                    | Discussion                                                                                                                                                  | all                 |
 | 10.30              | Coffee break                                                                                                                                                |                     |
