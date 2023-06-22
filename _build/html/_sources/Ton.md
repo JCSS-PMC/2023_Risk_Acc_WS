@@ -12,3 +12,5 @@ Given this situation it seems worth to discuss the following issues:
 * In the case of fire safety, the time for (self)rescue is an important issue which is not well covered by present day codes.
 * As far as life safety is concerned, there seems to be a primary focus on the total number of human lives that may be lost in case of collapse. However, various countries may have rules for a maximum acceptable individual risk. In some cases that may lead to more stringent requirements.
 * Environmental issues and use of recourses in view of sustainability targets are getting more and more important.
+
+[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/PRES_Vrouwen.pdf)

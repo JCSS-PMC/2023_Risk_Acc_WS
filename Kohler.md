@@ -19,4 +19,4 @@ The reduction of (the aggregated) risk is considered as the benefit and shall be
 The possible need for upper limits of risk and the application of limits will be discussed, It is highlighted that simplifications respecting the basic principles are useful and the methodology can be adapted to the decision problem at hand. On the other hand, some unsuitable methods of risk acceptance will be mentioned as well.
 
 
-[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/PRES_HojKohler.pdf)
+[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/PRES_Kohler.pdf)

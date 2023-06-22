@@ -14,3 +14,4 @@ These efforts involved dynamic global and  nonlinear local analyses of multiple 
 
 [Extended abstract.](https://folk.ntnu.no/jochenk/JCSS/Files/eaMoan.pdf)
 
+[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/PRES_Moan.pdf)

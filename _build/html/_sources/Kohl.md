@@ -5,4 +5,4 @@ Since 10-15 years risk assessment is used as an additional tool - complementary 
 
 [Extended abstract](https://folk.ntnu.no/jochenk/JCSS/Files/eaKohl.pdf)
 
-[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/presKohl.pdf)
+[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/PRES_Kohl.pdf)

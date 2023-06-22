@@ -1,3 +1,0 @@
-## Large Bridges
-**Albrecht Lenz**
-
