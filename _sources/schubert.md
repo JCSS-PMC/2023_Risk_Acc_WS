@@ -5,4 +5,4 @@ The fundamental principle guiding state action is the imperative to act solely i
 
 [Extended abstract](https://folk.ntnu.no/jochenk/JCSS/Files/EA_Matrisk_Risk_Acceptance_20.06.2023.pdf)
 
-[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/PRE_Matrisk_Risk_Akzeptanz_20.06.2023_rev.A.pdf)
+[Presentation slides](https://folk.ntnu.no/jochenk/JCSS/Files/PRES_Schubert.pdf)

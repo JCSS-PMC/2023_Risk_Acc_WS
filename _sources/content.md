@@ -1,33 +1,33 @@
-## Program and overview
+## Program and documentation
 
 | **19.06.23** |                                                                                   |                       |
 |--------------------|----------------------------------------------------------------------------------------------|-----------------------|
 | 09.30              | Registration and Coffee                                                                      |                       |
 | 10.00              |**Session 1: Setting the scene**                                                        |                       |
 |                    | Welcome and overview                                                                         | all       |
-|                    | [](./Hoj.md)                                                           | J.Köhler (NTNU)         |
+|                    | [](./Kohler.md)                                                           | J.Köhler (NTNU)         |
 |                    | Discussion                                                                                   | all                   |
 | 10.45              | Coffee break                                                                                 |                       |
 | 11.15              |**Session 2: Practical implementation**                                                 |                       |
 |                    | [](./Kohl.md)                                                 | B.Kohl (ILF)          |
 |                    | [](./Proske.md)               | D.Proske (BFH)        |
-|                    | [](./Lenz.md)                                                                                 | A.Lenz (COWI)         |
+|                    | [](./Lentz.md)                                                                                 | A.Lentz (COWI)         |
 |                    | Discussion                                                                                   | all                   |
 | 12.30              | Lunch break                                                                                  |                       |
 | 13.30              |**Session 2: Practical implementation cont.**                                           |                       |
 |                    | [](./Moan.md)  | T.Moan (NTNU)         |
-|                    | Practical implementation of criteria in the oil and gas industry                             | G.Lian (Equinor)      |
+|                    | [](./Lian.md)                                                                        | G.Lian (Equinor)      |
 |                    | Discussion                                                                                   | all                   |
 | 14.45              | Coffee break                                                                                 |                       |
 | 15.00              |**Session 3: Regulatory Context**                                                       |                       |
 |                    | [](./Ton.md)                                                     | T.Vrouwenvelder (TNO)  |
 |                    | [](./Larson.md)                                            | O.L.Ivanov (Boverket) |
-|                    | Safety regulation in the oil and gas industry                                                | B.Heide (Ptil)        |
+|                    |  [](./Heide.md)                                                  | B.Heide (Ptil)        |
 |                    | Discussion                                                                                   | all                   |
 | 16.30              | Coffee break                                                                                 |                       |
 | 16.45              |**Session 4: Scientific Approach to Risk Based Decision Making and Acceptance**         |                       |
-|                    | Formal criteria derived from Bayesian decision theory                                        | M.H.Faber (AAU)       |
-|                    | The use of risk acceptance criteria - an evaluation                                          | G.Ersdal (Ptil)       |
+|                    |  [](./Faber.md)                                         | M.H.Faber (AAU)       |
+|                    |  [](./Ersdal.md)                                             | G.Ersdal (Ptil)       |
 |                    | Discussion                                                                                   | all                   |
 | 18.00              | Closure Day 1                                                                                |                       |
 | 20.00              | Dinner                                                                                       |                       |
@@ -37,8 +37,8 @@
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
 | 09.00              | Registration and Coffee                                                                                                                                     |                     |
 | 09.15              | **Session 5: Tools and metrics for risk based decision making**                                                                                        |                     |
-|                    | [](./schubert.md)                                                                                                                      | M.Schubert (MATRISK) |
-|                    | Common frameworks and misconceptions                                                                                                                        | N.P. Høj (HOJ)   |
+|                    | [](./Schubert.md)                                                                                                                      | M.Schubert (MATRISK) |
+|                    | [](./HojEvans.md)                                                                                                                           | N.P. Høj (HOJ)   |
 |                    | Discussion                                                                                                                                                  | all                 |
 | 10.30              | Coffee break                                                                                                                                                |                     |
 | 11.00              | **Session 6: Group Work**                                                                                                                              |                     |
@@ -47,6 +47,7 @@
 |                    | b)	What should be avoided? What are the main sources of inconsistencies?                                                                                    |                     |
 | 12.00              | Lunch break                                                                                                                                                 |                     |
 | 13.00              | **Presentation of the group work**                                                                                                                     |                     |
+|                    |  [](./Group.md)                                         | All       |
 | 13.30              | Discussion, wrap up and down the path.                                                                                                                      | all                 |
 |                    | The principles for a report of the workshop.                                                                                                                |                     |
 | 14.00              | **End of the Workshop**                                                                                                                                |                     |
