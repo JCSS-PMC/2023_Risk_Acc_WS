@@ -1,9 +1,6 @@
 # Practical Information
 
 
----
-
-
 
 ## Venue:
 
@@ -16,22 +13,6 @@ Høgskoleringen 5, 7034 Trondheim
 :width: 600px
 :class: bg-white mb-1
 ```
-
-## Online Participation:
-
-Register in advance for this meeting. After registering, you will receive a confirmation email containing information about joining the meeting.
-
-### Jun 19, 2023 09:30 AM (CET):
-
-
-[ZOOM-link-Day1](https://NTNU.zoom.us/meeting/register/tJMqf-mvpz0rGtR5g-lJ0tEYj7IRlk8WDfCC)
-
-### Jun 20, 2023 09:00 AM (CET):
-
-[ZOOM-link-Day2](https://NTNU.zoom.us/meeting/register/tJIkdemgrT4rGtN0bv4-gGerKE3ZXhI-1vvH)
- 
- 
-
 
 ## Public Transport:
 
