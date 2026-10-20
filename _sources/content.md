@@ -37,7 +37,7 @@
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
 | 09.00              | Registration and Coffee                                                                                                                                     |                     |
 | 09.15              | **Session 5: Tools and metrics for risk based decision making**                                                                                        |                     |
-|                    | [](./Schubert.md)                                                                                                                      | M.Schubert (MATRISK) |
+|                    | [](./schubert.md)                                                                                                                      | M.Schubert (MATRISK) |
 |                    | [](./HojEvans.md)                                                                                                                           | N.P. Høj (HOJ)   |
 |                    | Discussion                                                                                                                                                  | all                 |
 | 10.30              | Coffee break                                                                                                                                                |                     |
@@ -47,7 +47,7 @@
 |                    | b)	What should be avoided? What are the main sources of inconsistencies?                                                                                    |                     |
 | 12.00              | Lunch break                                                                                                                                                 |                     |
 | 13.00              | **Presentation of the group work**                                                                                                                     |                     |
-|                    |  [](./Group.md)                                         | All       |
+|                    |  [](./Group.md) — see also the [Conclusions](./conclusions.md)                                         | All       |
 | 13.30              | Discussion, wrap up and down the path.                                                                                                                      | all                 |
 |                    | The principles for a report of the workshop.                                                                                                                |                     |
 | 14.00              | **End of the Workshop**                                                                                                                                |                     |
